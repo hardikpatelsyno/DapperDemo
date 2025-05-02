@@ -10,3 +10,16 @@ D:\Workspace\DapperDemo\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
 D:\Workspace\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
 D:\Workspace\DapperDemo\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
 D:\Workspace\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.AssemblyReference.cache
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.AssemblyReference.cache
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.sourcelink.json
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+D:\Workspace\DapperDemo\DapperDemo\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll

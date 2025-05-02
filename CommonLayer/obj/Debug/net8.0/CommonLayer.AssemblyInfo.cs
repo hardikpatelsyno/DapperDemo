@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommonLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa139f327d2defd574008946a8fa6ebf1d4f3e9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommonLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommonLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

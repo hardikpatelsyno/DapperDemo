@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QDRToOtgHhT4n9Yj8ZEuBcL+MR5UiNt7Aup9D6Rl6msd/h7ycmd8B0RcpElhWdPMq0o2dAVsG2LDb0bS6Dgxjg==",
+  "dgSpecHash": "dim+e1gnCMzciRgo1fo2MJvOEZJr57PhZD/20XYrno+9zQcxWIxvmdH9cFTAf11teQBRgvSwh8bQvxCbfa7cFg==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\DapperDemo\\DapperDemo\\DapperDemo.csproj",
+  "projectFilePath": "D:\\Workspace\\DapperDemo\\DapperDemo\\DapperDemo\\DapperDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patelhar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\patelhar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

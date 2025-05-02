@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Be0hUFP9Ay6svHm/9bNAwlSh9cIborl/phlIaXHhAFuEGTG7Z8dZNxyWPICCEQSXaM5I/q3NeKyUHNfmhgT+bA==",
+  "dgSpecHash": "chYzfC9BgQF277ur0YvapLCxg/UHFrrlS2QQ6xO61SyKQ1pyT/p/Vb+8QusimfLdI9aI82fg3ymLWvlaaD2nUg==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\DapperDemo\\CommonLayer\\CommonLayer.csproj",
+  "projectFilePath": "D:\\Workspace\\DapperDemo\\DapperDemo\\CommonLayer\\CommonLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patelhar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\patelhar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

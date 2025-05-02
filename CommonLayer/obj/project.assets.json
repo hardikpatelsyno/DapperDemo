@@ -2735,11 +2735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\DapperDemo\\CommonLayer\\CommonLayer.csproj",
+      "projectUniqueName": "D:\\Workspace\\DapperDemo\\DapperDemo\\CommonLayer\\CommonLayer.csproj",
       "projectName": "CommonLayer",
-      "projectPath": "D:\\Workspace\\DapperDemo\\CommonLayer\\CommonLayer.csproj",
+      "projectPath": "D:\\Workspace\\DapperDemo\\DapperDemo\\CommonLayer\\CommonLayer.csproj",
       "packagesPath": "C:\\Users\\patelhar\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\DapperDemo\\CommonLayer\\obj\\",
+      "outputPath": "D:\\Workspace\\DapperDemo\\DapperDemo\\CommonLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
